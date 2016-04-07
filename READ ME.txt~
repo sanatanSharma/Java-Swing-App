@@ -1,0 +1,11 @@
+Name : E-care for the elderly
+Version : 1.0
+Description : GUI based Java Program which displays basic amenities and facilities for the old people.
+
+Features : Create an account with your details.
+	   Get info about medical shops, hospitals etc. based on the user's location.
+	   
+Operating Instructions : Create a project and put all the src and resources file in the same folder.
+			 Run one.java file to start the project.
+			 Login or signup to use the app.
+
